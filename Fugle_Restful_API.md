@@ -1,1 +1,0 @@
-# Fugle Realtime Restful API
