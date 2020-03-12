@@ -1,0 +1,7 @@
+fugle-realtime
+pandas==0.25.3
+numpy==1.18.1
+requests==2.22.0
+dash==1.9.1
+dash-daq==0.1.7
+dash-table==4.6.1
