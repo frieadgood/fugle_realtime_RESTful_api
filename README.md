@@ -53,7 +53,7 @@ df_quote, price_list, symbol = quote.update_quote_data(symbol_id = '2884')
 ```py
 quote.plot_order_book(df_quote, price_list, symbol)
 ```
-`df_quote` represents an order book that records the historical price since the execution of the code.
+`df_quote` represents an order book that records the historical price since the execution of the code. <br>
 `price_list` represents the current price of the order book.
 ### `line_notify`
 ```py
