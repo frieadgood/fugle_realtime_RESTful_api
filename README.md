@@ -1,4 +1,4 @@
-# fugle_realtime_restful_api
+# fugle_realtime_RESTful_api
 In this notebook, I will introduce how to build a real-time stock quote application. <br><br>
 For that purpose, we will use Fugle Realtime API and Dash. <br><br>
 ## Documentations
