@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 ```py
-from fugle_realtime_restful_api import *
+from fugle_realtime_RESTful_api import *
 ```
 ### chart_api
 ```py
