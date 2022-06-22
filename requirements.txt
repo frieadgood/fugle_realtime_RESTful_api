@@ -1,6 +1,6 @@
 fugle-realtime
 pandas==0.25.3
-numpy==1.18.1
+numpy==1.22.0
 requests==2.22.0
 dash==1.9.1
 dash-daq==0.1.7
